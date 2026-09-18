@@ -39,7 +39,15 @@ Scikit-learn (sklearn): Used to split data into training/testing sets (train_tes
 ## Files Used  
 *To run the analysis, you will need to have Jupyter Notebook and the underlying files provided here. It is important to run the Jupyter files (denoted by the file extension ".ipynb") in the specific order listed here: Merge, Cleaning, then Analysis.*
 #### Files
+* **Jupyter Notebooks**
+  - [NHL_Project_Merge.ipynb](data/NHL_Project_Merge.ipynb)  
+  - [NHL_Project_Cleaning.ipynb](data/NHL_Project_Cleaning.ipynb)  
+  - [NHL_Project_Analysis.ipynb](data/NHL_Project_Analysis.ipynb)  
 
+* **Data Files**
+  - [game.csv](data/game.csv)  
+  - [game_team_stats.csv](data/game_team_stats.csv)  
+  - [team_info.csv](data/team_info.csv)  
 
 ## How to Run Program  
 *To run the files, you will need to have access to Jupyter Notebook and have all files within the same folder and folder level. After that, it is as easy as clicking 'Run all cells' through each notebook as long as you run them in order. Then you will be able to see the analysis.*  
