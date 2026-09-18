@@ -3,7 +3,7 @@
 ## Table of Contents  
 - [Project Title](#Project-Title)  
 - [Description](#Description)  
-- [Tools Used](#Tools-Used)  
+- [Tools/Technologies Used](#Tools/Technologies-Used)  
 - [Files Used](#Files-Used)  
 - [How to Run Program](#How-to-Run-Program)  
 - [Additional Information](Additional-Information)
