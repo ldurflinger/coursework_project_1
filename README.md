@@ -21,7 +21,7 @@ We wanted to answer multiple questions:
 
 To answer these questions, we needed to merge the two DataFrames. After, we spent time cleaning the data and removing unnecessary data that we did not plan to use in our analysis. Lastly, we would use our data to create an analysis to answer each question previously mentioned.  
 
-## Tools/Technologies Used  
+## Tools and Technologies Used  
 ### Data Sourcing
 - Kaggle: Used to source original data
 ### Environment and Language
