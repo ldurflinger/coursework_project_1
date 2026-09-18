@@ -6,7 +6,7 @@
 - [Tools and Technologies Used](#Tools-and-Technologies-Used)  
 - [Files Used](#Files-Used)  
 - [How to Run Program](#How-to-Run-Program)  
-- [Additional Information](Additional-Information)
+- [Additional Information](#Additional-Information)
 
 ## Project Title  
 **NHL Data Project -- Wrangling and Analysis to See what Statistics Win Hockey Games**
