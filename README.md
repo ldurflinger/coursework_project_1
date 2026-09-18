@@ -46,7 +46,7 @@ Scikit-learn (sklearn): Used to split data into training/testing sets (train_tes
 
 * **Data Files**
   - [game.csv](data/game.csv)  
-  - [game_team_stats.csv](data/game_team_stats.csv)  
+  - [game_teams_stats.csv](data/game_teams_stats.csv)  
   - [team_info.csv](data/team_info.csv)  
 
 ## How to Run Program  
