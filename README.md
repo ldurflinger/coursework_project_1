@@ -37,10 +37,12 @@ To answer these questions, we needed to merge the two DataFrames. After, we spen
 Scikit-learn (sklearn): Used to split data into training/testing sets (train_test_split) and build the predictive Logistic Regression model. 
 
 ## Files Used  
-*Where you would add Files Used if you had used them*  
+*To run the analysis, you will need to have Jupyter Notebook and the underlying files provided here. It is important to run the Jupyter files (denoted by the file extension ".ipynb") in the specific order listed here: Merge, Cleaning, then Analysis.*
+### Files
+
 
 ## How to Run Program  
-*Where instructions on how to make the program properly run would be added for users to try the program*  
+*To run the files, you will need to have access to Jupyter Notebook and have all files within the same folder and folder level. After that, it is as easy as clicking 'Run all cells' through each notebook as long as you run them in order. Then you will be able to see the analysis. *  
 
 ##  Additional Information  
-*Any extra information that the user or viewer may find interesting or necessary for this repository*  
+*I do not consent to other students using my group's property to cheat on assignments. This assignment was made for analysis of NHL games to complete a final project at my university. It is okay to evaluate and use techniques shown within the files, but please do not try to use the files for your own benefits. ***I do not want any university breathing down my back since I am only putting this on GitHub to showcase my skills for future employment.****  
