@@ -42,7 +42,7 @@ Scikit-learn (sklearn): Used to split data into training/testing sets (train_tes
 
 
 ## How to Run Program  
-*To run the files, you will need to have access to Jupyter Notebook and have all files within the same folder and folder level. After that, it is as easy as clicking 'Run all cells' through each notebook as long as you run them in order. Then you will be able to see the analysis. *  
+*To run the files, you will need to have access to Jupyter Notebook and have all files within the same folder and folder level. After that, it is as easy as clicking 'Run all cells' through each notebook as long as you run them in order. Then you will be able to see the analysis.*  
 
 ##  Additional Information  
 *I do not consent to other students using my group's property to cheat on assignments. This assignment was made for analysis of NHL games to complete a final project at my university. It is okay to evaluate and use techniques shown within the files, but please do not try to use the files for your own benefits. ***I do not want any university breathing down my back since I am only putting this on GitHub to showcase my skills for future employment.****  
